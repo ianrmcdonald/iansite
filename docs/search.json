@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "movie.html",
+    "href": "movie.html",
+    "title": "Movie Reviews",
+    "section": "",
+    "text": "The last movie I saw was The Asphalt Jungle."
   }
 ]
