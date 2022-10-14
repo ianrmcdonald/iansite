@@ -1,7 +1,5 @@
 ---
-title: "iansite"
+title: "Ian R. McDonald"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Movies, Research, and R Development.  I am a product of my time. Born September 6, 1957.  A little younger than Daniel Day-Lewis and a little older than Steve Buscemi.
