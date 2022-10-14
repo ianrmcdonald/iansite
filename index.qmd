@@ -1,5 +1,19 @@
 ---
 title: "Ian R. McDonald"
+image: pollock.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ianrmcdonald/
+    - text: Twitter
+      href: https://twitter.com/ianrmcdonald
+    - text: GitHub
+      href: https://github.com/ianrmcdonald
+    - text: Email
+      href: mailto:ianrmcdonald@gmail.com
 ---
 
 Movies, Research, and R Development.  I am a product of my time. Born September 6, 1957.  A little younger than Daniel Day-Lewis and a little older than Steve Buscemi.
